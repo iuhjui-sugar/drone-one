@@ -1,0 +1,18 @@
+workspace:
+  base: /root/
+  path: /site
+pipeline:
+  publish:
+    image: plugins/docker
+    repo: registry.91wmx.com/ci-build/drone-one
+    tags: latest
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
